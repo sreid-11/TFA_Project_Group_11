@@ -2,6 +2,17 @@ TFA Group 11 - Section 002
 
 CONTRIBUTORS:
 Hannah Kip - hlk2131
-Shane Reid - sr3848]
+Shane Reid - sr3848
 
 We have implemented the use of pandas and numpy to answer questions on the 311 dataset.
+
+Top10:
+1. Imported the necessary Python libraries (NumPy and Pandas)
+    For more information on these Python libraries, please visit 
+    their respective official documentation:
+        Pandas - https://pandas.pydata.org/pandas-docs/stable
+        NumPy - https://www.numpy.org
+2. Read the dataset into a pandas dataframe
+3. Performed data analysis on the dataset to find the top 10 incidents
+    for a given zip code in New York City and returns the count of each
+    of the top 10 incidents in that zip code.
