@@ -16,3 +16,10 @@ Top10 Notebook:
 3. Performed data analysis on the dataset to find the top 10 incidents
     for a given zip code in New York City and returns the count of each
     of the top 10 incidents in that zip code.
+
+Parking:
+1. Import the neccessary libraries: Pandas and NumPy. 
+2. Create a pandas dataframe of the 311 Service Requests dataset.
+3. Find the number of complaints in the dataset where the complaint type is "Illegal Parking" and then divide this number by the number of total complaints.
+4. Repeat step 3 for the complaints in your specified zip code. 
+5. Create and if/else statetment where if the fraction of Illegal Parking complaints in your zip code is greater than the fraction in the total dataset, the variable "higher_parking_proportion" = True, and if it is less than then "higher_parking_proportion" = False
