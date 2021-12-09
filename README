@@ -6,7 +6,7 @@ Shane Reid - sr3848
 
 We have implemented the use of pandas and numpy to answer questions on the 311 dataset.
 
-Top10:
+Top10 Notebook:
 1. Imported the necessary Python libraries (NumPy and Pandas)
     For more information on these Python libraries, please visit 
     their respective official documentation:
